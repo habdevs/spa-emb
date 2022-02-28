@@ -7,9 +7,9 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ListItemComponent implements OnInit {
 
-  titleItem = '';
+  titleItem = 'Blick-Durgan';
   linkItem = '';
-  
+
 
   constructor() { }
 
