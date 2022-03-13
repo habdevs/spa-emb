@@ -4,12 +4,21 @@
     padding-top: 2rem;
 }
 
+.header {
+    display: flex;
+    align-items: center;
+}
+
 .title {
     font-family: Roboto;
     font-style: normal;
     font-weight: 500;
-    font-size: 28px;
+    font-size: 52px;
     line-height: 32px;
-    /* identical to box height, or 114% */
     color: rgba(0, 0, 0, 0.87);
+    margin: 20px;
+}
+
+.logo {
+    margin: 20px auto 20px 20px;
 }
